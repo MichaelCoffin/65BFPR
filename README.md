@@ -1,5 +1,5 @@
 # 65BFPR
-1965 Princeton Reverb Build
+1965 Princeton Reverb Build w/ Robinette recommended mods
 
 V1 = JJ 5751
 
