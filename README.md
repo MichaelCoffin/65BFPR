@@ -3,7 +3,7 @@
 
 V1 = JJ 5751
 
-V2 = NOS JAN 12AT7
+V2 = JAN 12AT7
 
 V3 = vintage Sylvania 12AX7 from the '70 SFSR
 
